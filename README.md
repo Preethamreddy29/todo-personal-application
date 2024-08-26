@@ -1,0 +1,1 @@
+This is a full-stack To-Do List application developed using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to add, edit, and delete tasks. Tasks can be marked as completed, which updates their status in the database and reflects the change in the UI.
