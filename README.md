@@ -28,7 +28,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/todo-application.git
+git clone https://github.com/yourusername/todo-personal-application.git
 cd todo-application
 Install Dependencies:
 
